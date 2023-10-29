@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DevOps Project by Nihal and Imad 
+          DevOps Project by Nihal J and Imad 
           1MS20CS073 and 1MS20CS052
         </p>
         <a

@@ -9,6 +9,7 @@ function App() {
         <p>
           DevOps Project by Nihal J and Imad 
           1MS20CS073 and 1MS20CS052
+          Demo
         </p>
         <a
           className="App-link"
